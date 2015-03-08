@@ -1,0 +1,54 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "6f7e313eb31bdf45e6fd7c033d982c5a",
+    "packages": [
+        {
+            "name": "stevevega/kima",
+            "version": "0.9.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/stevevega/kima.git",
+                "reference": "b43f6ed3354849e0cb8d47e67ae663ac926e94f3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/stevevega/kima/zipball/b43f6ed3354849e0cb8d47e67ae663ac926e94f3",
+                "reference": "b43f6ed3354849e0cb8d47e67ae663ac926e94f3",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.34"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Kima\\": "library/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "description": "Kima Framework",
+            "homepage": "https://github.com/stevevega/kima",
+            "keywords": [
+                "kima"
+            ],
+            "time": "2015-03-07 19:52:11"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": ">=5.4.0"
+    },
+    "platform-dev": []
+}

@@ -1,0 +1,15 @@
+{
+    "name": "stevevega/kima-skeleton",
+    "description": "PHP Skeleton app using Kima Framework",
+    "license": "BSD-3-Clause",
+    "keywords": [
+        "kima",
+        "skeleton",
+        "framework"
+    ],
+    "homepage": "https://github.com/stevevega/kima-skeleton",
+    "require": {
+        "php": ">=5.4.0",
+        "stevevega/kima": "0.9.*"
+    }
+}
