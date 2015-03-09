@@ -1,5 +1,5 @@
 <?php
-use \Kima\Application;
+use \Kima\Prime\App;
 
 /**
  * Application Bootstrap
@@ -12,7 +12,7 @@ class Bootstrap
      */
     public function set_language()
     {
-        $app = Application::get_instance();
+        $app = App::get_instance();
 
         $app->set_default_language('en');
         $app->set_available_languages(['en']);

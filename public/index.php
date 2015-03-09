@@ -2,7 +2,7 @@
 /**
  * Namespaces
  */
-use \Kima\Application;
+use \Kima\Prime\App;
 
 // Define path to app directory
 if (!defined('ROOT_FOLDER')) {
@@ -12,7 +12,7 @@ if (!defined('ROOT_FOLDER')) {
 // loading composer autoload
 require_once ROOT_FOLDER . '/vendor/autoload.php';
 
-$application = Application::get_instance()->run([
+App::get_instance()->run([
     '/' => 'Index',
     '/([A-Za-z0-9]+)' => 'Index'
 ]);

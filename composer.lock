@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "stevevega/kima",
-            "version": "0.9.1",
+            "version": "0.9.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/stevevega/kima.git",
-                "reference": "b43f6ed3354849e0cb8d47e67ae663ac926e94f3"
+                "reference": "4b1ab8cd4cc63c59f2ba576c9f2749efcc9afee0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/stevevega/kima/zipball/b43f6ed3354849e0cb8d47e67ae663ac926e94f3",
-                "reference": "b43f6ed3354849e0cb8d47e67ae663ac926e94f3",
+                "url": "https://api.github.com/repos/stevevega/kima/zipball/4b1ab8cd4cc63c59f2ba576c9f2749efcc9afee0",
+                "reference": "4b1ab8cd4cc63c59f2ba576c9f2749efcc9afee0",
                 "shasum": ""
             },
             "require": {
@@ -36,9 +36,10 @@
             "description": "Kima Framework",
             "homepage": "https://github.com/stevevega/kima",
             "keywords": [
+                "framework",
                 "kima"
             ],
-            "time": "2015-03-07 19:52:11"
+            "time": "2015-03-09 03:01:59"
         }
     ],
     "packages-dev": [],
