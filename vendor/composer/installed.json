@@ -1,23 +1,23 @@
 [
     {
         "name": "stevevega/kima",
-        "version": "0.9.4",
-        "version_normalized": "0.9.4.0",
+        "version": "0.9.5",
+        "version_normalized": "0.9.5.0",
         "source": {
             "type": "git",
             "url": "https://github.com/stevevega/kima.git",
-            "reference": "4b1ab8cd4cc63c59f2ba576c9f2749efcc9afee0"
+            "reference": "d72c181729e4f20b497a0c932ec93cff33fbbdd8"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/stevevega/kima/zipball/4b1ab8cd4cc63c59f2ba576c9f2749efcc9afee0",
-            "reference": "4b1ab8cd4cc63c59f2ba576c9f2749efcc9afee0",
+            "url": "https://api.github.com/repos/stevevega/kima/zipball/d72c181729e4f20b497a0c932ec93cff33fbbdd8",
+            "reference": "d72c181729e4f20b497a0c932ec93cff33fbbdd8",
             "shasum": ""
         },
         "require": {
             "php": ">=5.4.34"
         },
-        "time": "2015-03-09 03:01:59",
+        "time": "2015-03-16 21:15:02",
         "type": "library",
         "installation-source": "dist",
         "autoload": {
