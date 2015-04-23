@@ -12,10 +12,8 @@ class Bootstrap
      */
     public function set_language()
     {
-        $app = App::get_instance();
-
-        $app->set_default_language('en');
-        $app->set_available_languages(['en']);
+        // custom language app setup
+        $app = App::get_instance()->set_language('en');
     }
 
 }
