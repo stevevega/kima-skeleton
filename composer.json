@@ -10,6 +10,6 @@
     "homepage": "https://github.com/stevevega/kima-skeleton",
     "require": {
         "php": ">=5.4.0",
-        "stevevega/kima": "0.9.*"
+        "stevevega/kima": "0.9.11"
     }
 }

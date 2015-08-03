@@ -3,6 +3,8 @@
  * This is an example model
  * Shows how a simple MySQL model can be created
  */
+namespace model;
+
 use \Kima\Model;
 
 class Example extends Model
