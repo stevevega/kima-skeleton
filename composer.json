@@ -10,6 +10,12 @@
     "homepage": "https://github.com/stevevega/kima-skeleton",
     "require": {
         "php": ">=5.4.0",
-        "stevevega/kima": "0.9.11"
+        "stevevega/kima": "0.9.12"
+    },
+    "autoload": {
+        "psr-4": {
+            "Model\\": "application/model/",
+            "": "library/"
+        }
     }
 }

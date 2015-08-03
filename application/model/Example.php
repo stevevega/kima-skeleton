@@ -3,7 +3,7 @@
  * This is an example model
  * Shows how a simple MySQL model can be created
  */
-namespace model;
+namespace Model;
 
 use \Kima\Model;
 
