@@ -1,6 +1,8 @@
 <?php
-use \Kima\Controller;
-use \Kima\Http\StatusCode;
+namespace Controller;
+
+use Kima\Controller;
+use Kima\Http\StatusCode;
 
 /**
  * Error handler controller

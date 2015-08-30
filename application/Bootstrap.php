@@ -1,5 +1,5 @@
 <?php
-use \Kima\Prime\App;
+use Kima\Prime\App;
 
 /**
  * Application Bootstrap

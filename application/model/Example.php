@@ -5,7 +5,7 @@
  */
 namespace Model;
 
-use \Kima\Model;
+use Kima\Model;
 
 class Example extends Model
 {

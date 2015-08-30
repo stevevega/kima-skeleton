@@ -2,7 +2,7 @@
 /**
  * Namespaces
  */
-use \Kima\Prime\App;
+use Kima\Prime\App;
 
 // Define path to app directory
 if (!defined('ROOT_FOLDER')) {

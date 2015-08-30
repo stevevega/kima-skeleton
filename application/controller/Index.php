@@ -1,6 +1,8 @@
 <?php
-use \Kima\Controller;
-use \Example\Year;
+namespace Controller;
+
+use Kima\Controller;
+use Example\Year;
 
 /**
  * Index

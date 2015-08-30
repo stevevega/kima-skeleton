@@ -7,5 +7,6 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Model\\' => array($baseDir . '/application/model'),
+    'Controller\\' => array($baseDir . '/application/controller'),
     '' => array($baseDir . '/library'),
 );

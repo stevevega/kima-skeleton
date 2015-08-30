@@ -25,6 +25,11 @@ ___ controller (custom example module controllers)
 ___ view (custom module views)
 ```
 
+You will need also to add the controller path psr-4 section of the autoload in composer.json. Fro example:
+```
+"Module\\Admin\\Controller\\": "application/module/admin/controller/"
+```
+
 The application will try to locate the controllers and views first in
 the module path, if no controller or view is found there, it will try
 to failover to the main controller path.
