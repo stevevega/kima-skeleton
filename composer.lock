@@ -1,23 +1,23 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "b3bceb990bb7f72625ad2f65f5d81b31",
+    "hash": "02f8a9a06c7e6a06af12a9ce14ab5436",
     "packages": [
         {
             "name": "stevevega/kima",
-            "version": "0.9.15",
+            "version": "0.9.16",
             "source": {
                 "type": "git",
                 "url": "https://github.com/stevevega/kima.git",
-                "reference": "b7bc1728ba358f5f8af6356cc601542c062acdd2"
+                "reference": "7b9ef704e6e0013dca8870f39a6e1ff0855d5799"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/stevevega/kima/zipball/b7bc1728ba358f5f8af6356cc601542c062acdd2",
-                "reference": "b7bc1728ba358f5f8af6356cc601542c062acdd2",
+                "url": "https://api.github.com/repos/stevevega/kima/zipball/7b9ef704e6e0013dca8870f39a6e1ff0855d5799",
+                "reference": "7b9ef704e6e0013dca8870f39a6e1ff0855d5799",
                 "shasum": ""
             },
             "require": {
@@ -39,7 +39,7 @@
                 "framework",
                 "kima"
             ],
-            "time": "2015-08-30 20:35:18"
+            "time": "2015-09-03 02:38:04"
         }
     ],
     "packages-dev": [],
