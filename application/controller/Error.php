@@ -1,7 +1,7 @@
 <?php
 namespace Controller;
 
-use Kima\Controller;
+use Kima\Prime\Controller;
 use Kima\Http\StatusCode;
 
 /**
